@@ -3,7 +3,7 @@ This is a small python script to check your USCIS case status everyday and infor
 
 # Step 1
 
-Make sure you have Python downloaded first(https://www.python.org/). Extract this folder directly under your C drive. The path to this folder should be 'C:\USCIS_case_status_check'
+Make sure you have Python downloaded first(https://www.python.org/). Extract this file( # USCIS_case_status_check.zip) directly under your C drive. The path to this folder should be 'C:\USCIS_case_status_check'
 
 # Step 2
 
